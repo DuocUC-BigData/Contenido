@@ -1,15 +1,3 @@
-# Videos Creditos Skill Boost
-Compartimos links donde están los siguientes videos
-
-1. Solicitar Skill Boost
-2. Habilitar Cuenta SkillBoost
-3. Explicacion Laboratorios Skill Boost
-4. Asignación de Créditos a Estudiantes
-5. Seguimiento Avance Estudiantes en Skill Boost
-
-[Link Videos](https://videosduoc.duoc.cl/playlist/dedicated/225528603/1_942u70zj/1_vg5icwpo)
-
-
 # Experiencia 1
 Este repositorio contiene el material adicional y complementario del curso para la experiencia 1
 

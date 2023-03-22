@@ -23,3 +23,14 @@ Para postular debes entrar a este [link](https://edu.google.com/programs/cloud-c
 
 Una vez enviado el formulario, el equipo de Google revisará la información, esto puede tomar entre 2 a 7 días. En caso de no recibir ninguna notificación en dicho período de tiempo escríbenos a s.rodriguez@profesor.duoc.cl, indicando la fecha y correo con el cual postulaste.
 
+## Videos Creditos Skill Boost
+Compartimos links donde están los siguientes videos
+
+1. Solicitar Skill Boost
+2. Habilitar Cuenta SkillBoost
+3. Explicacion Laboratorios Skill Boost
+4. Asignación de Créditos a Estudiantes
+5. Seguimiento Avance Estudiantes en Skill Boost
+
+[Link Videos](https://videosduoc.duoc.cl/playlist/dedicated/225528603/1_942u70zj/1_vg5icwpo)
+
