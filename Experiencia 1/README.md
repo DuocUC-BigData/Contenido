@@ -1,3 +1,15 @@
+# Videos Creditos Skill Boost
+Compartimos links donde están los siguientes videos
+
+1. Solicitar Skill Boost
+2. Habilitar Cuenta SkillBoost
+3. Explicacion Laboratorios Skill Boost
+4. Asignación de Créditos a Estudiantes
+5. Seguimiento Avance Estudiantes en Skill Boost
+
+[Link Videos](https://videosduoc.duoc.cl/playlist/dedicated/225528603/1_942u70zj/1_vg5icwpo)
+
+
 # Experiencia 1
 Este repositorio contiene el material adicional y complementario del curso para la experiencia 1
 
@@ -11,6 +23,8 @@ Este material tiene por objetivo reforzar el contenido de BigData enfocado en GC
     * Utilizar [03 GCP Data Engineer - Módulo 1 - Material Complementario 1](/06%20GCP%20Data%20Engineer%20-%20Mo%CC%81dulo%202%20-%20Ecosistema%20Hadoop%20(Material%20Complementario).pptx)
 * **Actividad 1.3**: Infraestructura para Big Data: diferencias entre on-premise y cloud.
     * Utilizar [04 GCP Data Engineer - Módulo 1 - Presentación 2](/04%20GCP%20Data%20Engineer%20-%20Mo%CC%81dulo%201%20-%20Presentacio%CC%81n%202.pptx)
+
+En la subcarpeta "Evaluacion1" se encuentran 4 casos que pueden utilizar para aplicar la evaluación sumativa 1. Adicionalmente, dejamos un template de presentación en PowerPoint para que los estudiantes puedan usar de guía.
 
 
 ## Material de Apoyo
