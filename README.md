@@ -43,7 +43,7 @@ Para postular debes entrar a este [link](https://edu.google.com/programs/credits
 *Personal Information*
 * *First Name*: [nombre]
 * *Last Name*: [apellido]
-* *Email address*: s.rodriguezr@profesor.duoc.cl
+* *Email address*: [correo]@profesor.duoc.cl
 * *Country*: CL
 
 *Institution Information*
